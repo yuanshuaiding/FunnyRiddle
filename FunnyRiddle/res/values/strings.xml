@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IQ猜谜</string>
+    <string name="title">IQ猜谜</string>
+	<string name="guess"> --这个谜语你能猜出来吗？</string>
+</resources>
