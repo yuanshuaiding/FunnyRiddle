@@ -70,13 +70,13 @@
                     android:text="分 享："
                     android:textColor="@android:color/white"
                     android:textSize="16dp" />
-
+                <!--
                 <ImageButton
                     android:id="@+id/sms"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="center_vertical"
-                    android:background="@drawable/ic_msm" />
+                    android:background="@drawable/ic_msm" />                -->
 
                 <ImageButton
                     android:id="@+id/share"

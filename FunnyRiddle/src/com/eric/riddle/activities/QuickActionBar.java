@@ -108,6 +108,7 @@ public class QuickActionBar {
 		qaBarRoot = (ViewGroup) inflater.inflate(R.layout.qa_bar, null);
 		arrowUp = (ImageView) qaBarRoot.findViewById(R.id.qa_arrow_up);
 		arrowDown = (ImageView) qaBarRoot.findViewById(R.id.qa_arrow_down);
+		/*
 		smsBtn = qaBarRoot.findViewById(R.id.sms);
 		smsBtn.setOnClickListener(new OnClickListener() {
 
@@ -122,6 +123,7 @@ public class QuickActionBar {
 				mcontext.startActivity(mIntent);
 			}
 		});
+		*/
 		shareBtn = qaBarRoot.findViewById(R.id.share);
 		shareBtn.setOnClickListener(new OnClickListener() {
 
